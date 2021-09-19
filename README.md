@@ -5,3 +5,4 @@ Objetivo do projeto é praticar organização de repositório utilizando Git e G
 # links úteis
 
 [Download Git](https://git-scm.com/downloads)
+[Syntaxe Markdown](https://www.markdownguide.org/basic-syntax/)
