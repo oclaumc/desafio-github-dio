@@ -1,0 +1,39 @@
+# Como personalizar seu perfil no GitHub
+
+O GitHub liberou uma funcionalidade que permite personalizar seu perfil no GitHub.
+Nesse documento vou mostrar para vocês como acessar essa funcionalidade e um pequeno passo a passo de como personalizar seu perfil no GitHub.
+
+# Porque personalizar seu perfil no GitHub?
+Ter um perfil personalizado no GitHub não é simplesmente ter uma bio mais bonita.
+A ferramenta permite a criação de um perfil com markdown, da mesma forma que pode-se construir um README em um repositório, o que significa que você pode personalizar seu perfil e apresentar as pessoas o que considera realmente importante como por exemplo, seu portfólio, projetos que contribui mais e até mesmo um GIF do NianCat porque não?
+
+## Passo a Passo
+### Primeiro Passo
+Ter uma conta no GitHub, entretanto se não tiver esse é um ótimo momento para criar uma.
+
+### Segundo Passo
+Criar um repositório com o mesmo nome do seu usuário do GitHub.
+
+Para criar um novo repositório clique aqui.
+
+Lembrando que o nome do repositório tem que ser exatamente igual (inclusive maiúsculas e minusculas), entretanto se você já tiver um repositório com seu usuário sugiro que renomeie-o.
+
+### Terceiro Passo
+Criar um README.md dentro do repositório criado no passo anterior.
+
+Lembre que o README.md é construído em markdown e permite vários tipos de modificações, como listas, imagens e trechos de código.
+
+Confira o guia do próprio GitHub de markdown aqui.
+
+Dica: é possível criar o arquivo diretamente do navegador.
+
+### Quarto Passo
+Commitar o README.md criado no passo anterior, como estamos utilizando a interface web do GitHub não precisaremos dar push, já que as alterações feitas são sincronizadas automaticamente.
+
+Entretanto se você fizer esse processo localmente após o commit faça o push.
+
+# Conclusão
+
+Certamente ter um perfil personalizado fará você se destacar, entretanto vale lembrar que destaque pode vir para o bem e para o mal, então não exagere nos GIF’s de gatinhos.
+
+Para quem quer aprimorar ainda mais o perfil é possível utilizar automações como GitHub Actions para buscar dados dinamicamente para o perfil.
